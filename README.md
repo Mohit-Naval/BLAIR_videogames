@@ -175,5 +175,3 @@ In-batch negatives alone are often too easy (random games from different categor
   year    = {2024}
 }
 ```
-
-Built at IIT Indore.
